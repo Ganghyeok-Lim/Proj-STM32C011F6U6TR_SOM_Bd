@@ -31,7 +31,7 @@ ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
-OutputPath=
+OutputPath=Project Outputs for STM32C011F6U6TR SOM B'd
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -125,6 +125,44 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JDQTYZWS
 
+[Document6]
+DocumentPath=STM32C011F6U6TR_SOM_Bd.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=WREBHWNR
+
+[Document7]
+DocumentPath=STM32C011F6U6TR SOM B'd.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for STM32C011F6U6TR SOM B'd\Design Rule Check - STM32C011F6U6TR_SOM_Bd.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -134,6 +172,45 @@ Variant=[No Variations]
 OutputJobsCount=0
 ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
+
+[Generic_SmartPDF]
+AutoOpenFile=-1
+AutoOpenOutJob=-1
+
+[Generic_SmartPDFSettings]
+ProjectMode=-1
+ZoomPrecision=50
+AddNetsInformation=-1
+AddNetPins=-1
+AddNetNetLabels=-1
+AddNetPorts=-1
+ShowComponentParameters=-1
+GlobalBookmarks=0
+ExportBOM=0
+TemplateFilename=
+TemplateStoreRelative=-1
+PCB_PrintColor=1
+SCH_PrintColor=0
+PrintQuality=-3
+SCH_ShowNoErc=-1
+SCH_ShowParameter=-1
+SCH_ShowProbes=-1
+SCH_ShowBlankets=-1
+SCH_NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle
+SCH_ShowNote=-1
+SCH_ShowNoteCollapsed=-1
+SCH_ExpandLogicalToPhysical=-1
+SCH_VariantName=[No Variations]
+SCH_ExpandComponentDesignators=-1
+SCH_ExpandNetlabels=0
+SCH_ExpandPorts=0
+SCH_ExpandSheetNumber=0
+SCH_ExpandDocumentNumber=0
+SCH_HasExpandLogicalToPhysicalSheets=-1
+SaveSettingsToOutJob=-1
+
+[Generic_EDE]
+OutputDir=Project Outputs for STM32C011F6U6TR SOM B'd
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -1105,50 +1182,50 @@ ComponentUpdate8=1
 ComponentIsDeviceSheet8=0
 ComponentLibIdentifierKind9=Library Name And Type
 ComponentLibraryIdentifier9=Arkx.IntLib
-ComponentDesignItemID9=DIO_SS210
-ComponentSymbolReference9=DIO_SS210
+ComponentDesignItemID9=FET_2N7002
+ComponentSymbolReference9=FET_2N7002
 ComponentUpdate9=1
 ComponentIsDeviceSheet9=0
 ComponentLibIdentifierKind10=Library Name And Type
 ComponentLibraryIdentifier10=Arkx.IntLib
-ComponentDesignItemID10=FET_2N7002
-ComponentSymbolReference10=FET_2N7002
+ComponentDesignItemID10=IC_eFUSE_LS1205EVD33
+ComponentSymbolReference10=IC_eFUSE_LS1205EVD33
 ComponentUpdate10=1
 ComponentIsDeviceSheet10=0
 ComponentLibIdentifierKind11=Library Name And Type
 ComponentLibraryIdentifier11=Arkx.IntLib
-ComponentDesignItemID11=IC_eFUSE_LS1205EVD33
-ComponentSymbolReference11=IC_eFUSE_LS1205EVD33
+ComponentDesignItemID11=IC_MCU_STM32C011F6U6TR
+ComponentSymbolReference11=IC_MCU_STM32C011F6U6TR
 ComponentUpdate11=1
 ComponentIsDeviceSheet11=0
 ComponentLibIdentifierKind12=Library Name And Type
 ComponentLibraryIdentifier12=Arkx.IntLib
-ComponentDesignItemID12=IC_MCU_STM32C011F6U6TR
-ComponentSymbolReference12=IC_MCU_STM32C011F6U6TR
+ComponentDesignItemID12=IC_REG_AMS1117-3.3
+ComponentSymbolReference12=IC_REG_AMS1117-3.3
 ComponentUpdate12=1
 ComponentIsDeviceSheet12=0
 ComponentLibIdentifierKind13=Library Name And Type
 ComponentLibraryIdentifier13=Arkx.IntLib
-ComponentDesignItemID13=IC_REG_AMS1117-3.3
-ComponentSymbolReference13=IC_REG_AMS1117-3.3
+ComponentDesignItemID13=LED_MHT170RGBCT(BLUE)
+ComponentSymbolReference13=LED_MHT170RGBCT(BLUE)
 ComponentUpdate13=1
 ComponentIsDeviceSheet13=0
 ComponentLibIdentifierKind14=Library Name And Type
 ComponentLibraryIdentifier14=Arkx.IntLib
-ComponentDesignItemID14=LED_MHT170RGBCT(BLUE)
-ComponentSymbolReference14=LED_MHT170RGBCT(BLUE)
+ComponentDesignItemID14=OSC_SX1M48.000M10F30TNN(48MHz)
+ComponentSymbolReference14=OSC_SX1M48.000M10F30TNN(48MHz)
 ComponentUpdate14=1
 ComponentIsDeviceSheet14=0
 ComponentLibIdentifierKind15=Library Name And Type
 ComponentLibraryIdentifier15=Arkx.IntLib
-ComponentDesignItemID15=OSC_SX1M48.000M10F30TNN(48MHz)
-ComponentSymbolReference15=OSC_SX1M48.000M10F30TNN(48MHz)
+ComponentDesignItemID15=RES_0R/1608/0.1W
+ComponentSymbolReference15=RES_0R/1608/0.1W
 ComponentUpdate15=1
 ComponentIsDeviceSheet15=0
 ComponentLibIdentifierKind16=Library Name And Type
 ComponentLibraryIdentifier16=Arkx.IntLib
-ComponentDesignItemID16=RES_0R/1608/0.1W
-ComponentSymbolReference16=RES_0R/1608/0.1W
+ComponentDesignItemID16=RES_0R/2012/0.125W
+ComponentSymbolReference16=RES_0R/2012/0.125W
 ComponentUpdate16=1
 ComponentIsDeviceSheet16=0
 ComponentLibIdentifierKind17=Library Name And Type
@@ -1255,35 +1332,41 @@ ModelType3=PCBLIB
 ModelName3=CAP 2012 (0805_INCH)
 ModelUpdate3=1
 ModelType4=PCBLIB
-ModelName4=CON_TC2030-FP
+ModelName4=CON_DDR4-SODIMM-260P_EDGE-CONNECTOR
 ModelUpdate4=1
 ModelType5=PCBLIB
-ModelName5=DIO DO-214AC (SMA)
+ModelName5=CON_TC2030-FP
 ModelUpdate5=1
 ModelType6=PCBLIB
 ModelName6=IC_DFN_3x3_10L
 ModelUpdate6=1
 ModelType7=PCBLIB
-ModelName7=LED MHT170RGBCT (BLUE)
+ModelName7=IC_UFQFPN-20
 ModelUpdate7=1
 ModelType8=PCBLIB
-ModelName8=PCB_DDR4-SODIMM-260P_Connection_Part
+ModelName8=LED MHT170RGBCT (BLUE)
 ModelUpdate8=1
 ModelType9=PCBLIB
-ModelName9=RES 1608 (0603_inch)
+ModelName9=OSC_SMD2016-4P
 ModelUpdate9=1
 ModelType10=PCBLIB
-ModelName10=RES 2012 (0805_inch)
+ModelName10=RES 1608 (0603_inch)
 ModelUpdate10=1
 ModelType11=PCBLIB
-ModelName11=SB (Solder-Bridge)
+ModelName11=RES 2012 (0805_inch)
 ModelUpdate11=1
 ModelType12=PCBLIB
-ModelName12=SOT 223-3 (DIODES INCORPORATED)
+ModelName12=SB (Solder-Bridge)
 ModelUpdate12=1
 ModelType13=PCBLIB
-ModelName13=SOT 23-3 (DIODES INCORPORATED)
+ModelName13=SOT 223-3 (DIODES INCORPORATED)
 ModelUpdate13=1
+ModelType14=PCBLIB
+ModelName14=SOT 23-3 (DIODES INCORPORATED)
+ModelUpdate14=1
+ModelType15=PCBLIB
+ModelName15=SW_TS-1088-AR02016
+ModelUpdate15=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
@@ -1301,4 +1384,26 @@ ComparisonOptions5=Kind=Structure Class|MinPercent=75|MinMatch=3|ShowMatch=0|Use
 
 [SmartPDF]
 PageOptions=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+Configuration_Name1=OutputConfigurationParameter1
+Configuration_Item1=DesignatorDisplayMode=Physical|PrintArea=DesignExtent|PrintAreaLowerLeftCornerX=0|PrintAreaLowerLeftCornerY=0|PrintAreaUpperRightCornerX=0|PrintAreaUpperRightCornerY=0|Record=PcbPrintView|DocumentPath=C:\Onedrive\04_Development\01_Project\Active\06_STM32C011F6U6TR_SOM_Bd\Proj-STM32C011F6U6TR_SOM_Bd\Rev_A\01_HW\STM32C011F6U6TR SOM B'd\STM32C011F6U6TR_SOM_Bd.PcbDoc
+Configuration_Name2=OutputConfigurationParameter2
+Configuration_Item2=IncludeBoardCutouts=False|IncludeBottomLayerComponents=True|IncludeMultiLayerComponents=True|IncludeTopLayerComponents=True|IncludeViewports=True|Index=0|Mirror=False|Name=Multilayer Composite Print|PadNumberFontSize=14|Record=PcbPrintOut|ShowHoles=False|ShowPadNets=False|ShowPadNumbers=False|SubstituteFonts=False|DocumentPath=C:\Onedrive\04_Development\01_Project\Active\06_STM32C011F6U6TR_SOM_Bd\Proj-STM32C011F6U6TR_SOM_Bd\Rev_A\01_HW\STM32C011F6U6TR SOM B'd\STM32C011F6U6TR_SOM_Bd.PcbDoc
+Configuration_Name3=OutputConfigurationParameter3
+Configuration_Item3=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=TopOverlay|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Onedrive\04_Development\01_Project\Active\06_STM32C011F6U6TR_SOM_Bd\Proj-STM32C011F6U6TR_SOM_Bd\Rev_A\01_HW\STM32C011F6U6TR SOM B'd\STM32C011F6U6TR_SOM_Bd.PcbDoc
+Configuration_Name4=OutputConfigurationParameter4
+Configuration_Item4=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=TopLayer|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Onedrive\04_Development\01_Project\Active\06_STM32C011F6U6TR_SOM_Bd\Proj-STM32C011F6U6TR_SOM_Bd\Rev_A\01_HW\STM32C011F6U6TR SOM B'd\STM32C011F6U6TR_SOM_Bd.PcbDoc
+Configuration_Name5=OutputConfigurationParameter5
+Configuration_Item5=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=BottomLayer|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Onedrive\04_Development\01_Project\Active\06_STM32C011F6U6TR_SOM_Bd\Proj-STM32C011F6U6TR_SOM_Bd\Rev_A\01_HW\STM32C011F6U6TR SOM B'd\STM32C011F6U6TR_SOM_Bd.PcbDoc
+Configuration_Name6=OutputConfigurationParameter6
+Configuration_Item6=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=MultiLayer|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Onedrive\04_Development\01_Project\Active\06_STM32C011F6U6TR_SOM_Bd\Proj-STM32C011F6U6TR_SOM_Bd\Rev_A\01_HW\STM32C011F6U6TR SOM B'd\STM32C011F6U6TR_SOM_Bd.PcbDoc
+Configuration_Name7=OutputConfigurationParameter7
+Configuration_Item7=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=KeepOutLayer|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Onedrive\04_Development\01_Project\Active\06_STM32C011F6U6TR_SOM_Bd\Proj-STM32C011F6U6TR_SOM_Bd\Rev_A\01_HW\STM32C011F6U6TR SOM B'd\STM32C011F6U6TR_SOM_Bd.PcbDoc
+Configuration_Name8=OutputConfigurationParameter8
+Configuration_Item8=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical1|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Onedrive\04_Development\01_Project\Active\06_STM32C011F6U6TR_SOM_Bd\Proj-STM32C011F6U6TR_SOM_Bd\Rev_A\01_HW\STM32C011F6U6TR SOM B'd\STM32C011F6U6TR_SOM_Bd.PcbDoc
+Configuration_Name9=OutputConfigurationParameter9
+Configuration_Item9=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical3|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Onedrive\04_Development\01_Project\Active\06_STM32C011F6U6TR_SOM_Bd\Proj-STM32C011F6U6TR_SOM_Bd\Rev_A\01_HW\STM32C011F6U6TR SOM B'd\STM32C011F6U6TR_SOM_Bd.PcbDoc
+Configuration_Name10=OutputConfigurationParameter10
+Configuration_Item10=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical13|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Onedrive\04_Development\01_Project\Active\06_STM32C011F6U6TR_SOM_Bd\Proj-STM32C011F6U6TR_SOM_Bd\Rev_A\01_HW\STM32C011F6U6TR SOM B'd\STM32C011F6U6TR_SOM_Bd.PcbDoc
+Configuration_Name11=OutputConfigurationParameter11
+Configuration_Item11=CArc=Full|CFill=Full|Comment=Full|Coordinate=Full|CPad=Full|CRegion=Full|CText=Full|CTrack=Full|CVia=Full|Designator=Full|Dimension=Full|DLayer1=TopLayer|DLayer2=BottomLayer|DrillType=Regular|FArc=Full|FFill=Full|FPad=Full|FRegion=Full|FText=Full|FTrack=Full|FVia=Full|Layer=Mechanical15|Polygon=Full|PrintOutIndex=0|Record=PcbPrintLayer|DocumentPath=C:\Onedrive\04_Development\01_Project\Active\06_STM32C011F6U6TR_SOM_Bd\Proj-STM32C011F6U6TR_SOM_Bd\Rev_A\01_HW\STM32C011F6U6TR SOM B'd\STM32C011F6U6TR_SOM_Bd.PcbDoc
 
